@@ -1,2 +1,2 @@
 # musictheorymachinelearning
-a project to us machine learning to teach a computer music theory.
+this is a project to use machine learning to teach a computer music theory.
